@@ -1,0 +1,31 @@
+.body{
+    background-color: #E9ECEF;
+}
+
+.color-red{
+    color:rgb(218, 52, 80);
+}
+.color-yellow{
+    color:rgb(105, 216, 15);
+}
+
+.urunler{
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+}
+.pill{
+    background-color: white; 
+    color: black;
+    font-weight: bolder; 
+    font-size: 18px;  
+    
+}
+
+.card-body{
+    background-color: aquamarine;
+}
+.card{
+    background-color: #E9ECEF;
+}
+
